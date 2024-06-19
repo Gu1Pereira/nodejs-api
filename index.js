@@ -9,4 +9,8 @@ app.get("/ptbr", function(req, res){
     res.send("Olá Mundo")
 })
 
+app.post()
+app.put()
+app.delete()
+
 app.listen(3000)
